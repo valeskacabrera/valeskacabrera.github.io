@@ -1,0 +1,66 @@
+---
+layout: main
+---
+
+<!-- Hero Area Start -->
+<section class="text-center" id="hero-area">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="intro-area">
+                    <h3>Bienvenidos a</h3>
+                    <h2 class="page-title">Vivir, pensar y escribir</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+</section><!-- Hero Area End -->
+
+<!-- Content Start -->
+<div id="content">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8">
+                <!-- Blog Article Start-->
+                {% for post in paginator.posts %}
+                <article>
+                    <!-- Blog item Start -->
+                    <div class="blog-item-wrap">
+                        <h2 class="blog-title"><a href="{{post.url | prepend: site.baseurl}}">{{ post.title }}</a></h2><!-- Entry Meta Start-->
+                        <div class="entry-meta">
+                            <span class="meta-part"><i class="ico-user"></i> <a href="#">{{ site.author }}</a></span> <span class="meta-part"><i class="ico-calendar-alt-fill"></i> <a href="#">{{post.date | date: '%Y, %b %d'}}</a></span>
+                            <span class="meta-part"><i class="ico-tag"></i> <a href="#">{{ post.categories }}</a></span>
+                        </div><!-- Entry Meta End-->
+                        <!-- Feature inner Start -->
+                        <div class="feature-inner">
+                            <a data-lightbox="roadtrip" href="{{post.url | prepend: site.baseurl}}">
+                            <img alt="" src="{{"/assets/img/" | prepend: site.baseurl | append : post.img }}"></a>
+                        </div><!-- Feature inner End -->
+                        <!-- Post Content Start -->
+                        <div class="post-content">
+                            {{ post.description }}
+                        </div><!-- Post Content End -->
+                        <div class="entry-more">
+                            <div class="pull-left">
+                                <a class="btn btn-common" href="{{post.url | prepend: site.baseurl}}">Leer más <i class="ico-arrow-right"></i></a>
+                            </div>
+                            <div class="share-icon pull-right">
+                                <span class="socialShare"></span>
+                            </div>
+                        </div>
+                    </div><!-- Blog item End -->
+                </article><!-- Blog Article End-->
+
+                {% endfor %}
+
+                {% include pagination.html %}
+
+            </div>
+            <div class="col-md-4">
+                <div class="sidebar">
+                    {% include profile.html %}
+                </div>
+            </div>
+        </div>
+    </div>
+</div><!-- Content End -->
