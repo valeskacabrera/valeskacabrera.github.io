@@ -1,0 +1,25 @@
+---
+layout: post
+title:  Lo educativo en tiempos de crisis sanitaria
+description: "¿Cuál es el rol de la educación en tiempos de crisis sanitaria?
+El papel de los docentes es fundamental y nuestro protagonismo en la crisis actual debería ser mayor. Los(as) educadores(as) tenemos cosas que decir respecto a cómo llevar el confinamento y el autocuidado desde el punto de vista educativo y social. Podemos trabajar en equipo con otros profesionales, nuestro rol no es tan solo estar y educar en las aulas, es acompañar a niños(as), jóvenes, familias y a la sociedad en general."
+date:   2020-09-06 13:23:42 +0200
+img: valeska.jpg
+categories: [Educación]
+---
+
+En estos tiempos de crisis sanitaria me pregunto: ¿Cómo acompañar a los estudiantes desde el distanciamiento físico, desde las clases online y desde las tareas asincrónicas? En las condiciones actuales, ¿cómo promover un vínculo con el otro? ¿Cuál es el rol de la educación presencial? ¿Qué precedente dejará el home schooling (educación en casa)?
+
+Antes de que esta pandemia toque nuestras vidas, en la universidad un grupo de mis estudiantes de 1º de Pedagogía comenzaron un trabajo de investigación sobre el "home schooling" (educación en casa). El tema fue escogido por ellos, querían conocer alternativas de educación en ámbitos no formales. El foco estaba en otros modos de educar fuera de la escuela. En la búsqueda encontraron que en ciertos países había un reconocimiento a la educación que imparten familias en sus propias casas, mientras que en otros países esta acción se reconocía superficialmente. El principal mensaje es que los niños deben ir a la escuela porque allí es donde hay más oportunidades de aprender, de interacción, de conocer historias de vidas, de relacionarse, etc. 
+
+Hoy en día esta oportunidad de estar en la escuela se ha visto amenazada por algo que escapa de nuestras manos. Ahora la premisa es mantener el distanciamiento social, lo que ha significado cambios en nuestra manera de relacionarnos. Ya no vamos a las escuelas, ni a la universidad, hasta los espacios extraescolares están cerrados. A pesar de esta lejanía física, seguimos ejerciendo el rol de educar cambiando los escenarios. 
+
+La llegada de la crisis sanitaria nos ha hecho cambiar las maneras de hacer y de educar a niños(as), jóvenes y adultos que cursan estudio bajo la modalidad de presencialidad. También nos ha llevado a reprogramar las actividades que teníamos pensadas en nuestra vida. Sigo pensando en la escuela y me detengo en eso de la "educación en casa". Por las redes sociales me he encontrado con testimonios de familias agobiadas porque han tenido que ver lecciones, enseñar y guiar procesos de aprendizaje. De alguna u otra manera todos (familias, docentes y estudiantes) nos estamos sintiendo agobiados porque sin querer la informalidad del "home schooling" ha entrado a nuestros hogares. 
+
+En el ámbito universitario profesores y estudiantes hemos tenido que asumir nuevos retos. Yo me dedico a la formación docente y creo que quienes estamos cerca al mundo educativo debemos aportar cordura (o por lo menos intentarlo). Cada uno desde su rol aporta: los políticos deben tomar decisiones para cuidar a la población; el personal sanitario se focaliza a cuidarnos y a fomentar la prevención, además nos atiende si enfermamos; científicos e investigadores buscan la vacuna al Covid-19 y, así, los diferentes actores sociales van desempeñando sus labores para vivir, para hacer que nuestra sociedad siga funcionando. Aunque espero que ese funcionamiento no sea el mismo de antes. Porque debemos reconocer que algo se ha removido en nosotros y no ha sido solo la rutina.
+
+En tiempos de crisis sanitaria, el rol de los docentes es fundamental. Por ello, creo que nuestro protagonismo en la crisis actual debería ser mayor. El sentido pedagógico es transversal. Los(as) educadores(as) tenemos cosas que decir respecto al autocuidado, a cómo llevar el confinamiento y a ser responsables desde el sentido educativo y social. Retomando el rol de los docentes, históricamente se nos ha atribuido la tarea de promover saberes y quiero pensar, en eso, en "saberes" en "saberes para la vida" y no es ser trasmisores de conocimiento, porque en la actualidad familias y centros educativos esperan que nuestra labor sea dar pautas de cuál es el tema que se deben estudiar o qué actividades se deben realizar esta semana. Si lo que estamos viviendo no se acompaña con reflexión, una vez más en el mundo de la educación estaríamos reproduciendo modelos, el único cambio sería el escenario; del aula a estar confinados en casa.
+
+Podríamos trabajar en equipo con profesionales de otras áreas, podríamos estar más presentes en los medios de comunicación, podríamos acompañar desde otra mirada educativa a niños(as), jóvenes, familias y a la sociedad general.
+
+Para acabar mi pregunta es: ¿qué estamos haciendo? 
