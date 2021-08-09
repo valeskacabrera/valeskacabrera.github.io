@@ -4,7 +4,7 @@ title:  "Vuelta al cole: ¿Ropa de calle o uniforme?"
 description: El uniforme escolar contradice la mirada de una escuela inclusiva.
 date:   2020-09-06 13:23:42 +0200
 img: aulavacia.jpeg
-categories: [Educación]
+categories: [Educacion]
 ---
 
 En España vuelven las clases presenciales. Septiembre es el mes de inicio del año escolar y, aunque estamos en pandemia, la fecha sigue siendo la misma, todo parece indicar que es ineludible: habrá vuelta al cole presencial.

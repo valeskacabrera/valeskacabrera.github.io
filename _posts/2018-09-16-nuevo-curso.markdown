@@ -4,7 +4,7 @@ title:  "Nuevo curso: un nuevo comienzo"
 description: ¿Un proyecto educativo innovador? Volvemos a comenzar.
 date:   2020-09-06 13:23:42 +0200
 img: manos.png
-categories: [Educación]
+categories: [Educacion]
 ---
 
 Es el primer día de Trabajo Globalizado (TG) con los estudiantes de primero de secundaria que acaban de llegar. La profesora explica que en el centro hemos pensado en una forma curricular que engloba especialidades como: Ciencias Sociales, Naturales, Tecnología, Educación Visual y Plásticas. Esta metodología permite tratar el saber desde diferentes perspectivas y no desde el campo exclusivo de las disciplinas.
