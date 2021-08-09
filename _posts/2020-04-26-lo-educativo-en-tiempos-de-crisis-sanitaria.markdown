@@ -5,7 +5,7 @@ description: "¿Cuál es el rol de la educación en tiempos de crisis sanitaria?
 El papel de los docentes es fundamental y nuestro protagonismo en la crisis actual debería ser mayor. Los(as) educadores(as) tenemos cosas que decir respecto a cómo llevar el confinamento y el autocuidado desde el punto de vista educativo y social. Podemos trabajar en equipo con otros profesionales, nuestro rol no es tan solo estar y educar en las aulas, es acompañar a niños(as), jóvenes, familias y a la sociedad en general."
 date:   2020-09-06 13:23:42 +0200
 img: valeska.jpg
-categories: [Educación]
+categories: [Educacion]
 ---
 
 En estos tiempos de crisis sanitaria me pregunto: ¿Cómo acompañar a los estudiantes desde el distanciamiento físico, desde las clases online y desde las tareas asincrónicas? En las condiciones actuales, ¿cómo promover un vínculo con el otro? ¿Cuál es el rol de la educación presencial? ¿Qué precedente dejará el home schooling (educación en casa)?

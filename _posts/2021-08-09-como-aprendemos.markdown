@@ -4,7 +4,7 @@ title: ¿Cómo aprendemos? El docente enseñante y aprendiz que acompaña a los 
 description: Una de las preguntas clave es ¿cómo aprendemos? 
 date:   2021-08-09 13:23:42 +0200
 img: aprender.jpg
-categories: [Educación]
+categories: [Educacion]
 ---
 
 Junto a Claudia Soto García, una mujer a la que admiro mucho, escribimos este artículo que trata del docente y del reconocimiento de su lugar en el proceso de enseñanza-aprendizaje. Pusimos el foco en la búsqueda de las propias formas de aprender tanto del docente como de los estudiantes. El objetivo era indagar en las experiencias de aprendizaje de docentes y analizar cómo éstas pueden influir en la forma de enseñar y de relacionarse con los estudiantes. 

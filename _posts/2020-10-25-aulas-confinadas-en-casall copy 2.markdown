@@ -4,7 +4,7 @@ title:  Aulas confinadas en casa
 description: La vuelta al cole ha significado que en España haya unas 4.500 aulas confinadas—el 1,3% del total—. Esto se traduce en unos 90.000 estudiantes que vuelven a sus casa durante 2 semanas.
 date:   2020-10-25 13:23:42 +0200
 img: 140156_colegio-getafe.jpg
-categories: [Educación]
+categories: [Educacion]
 ---
 
 Hoy 26 de octubre de 2020 el periódico “El País” ha publicado que en España hay unas 4.500 aulas confinadas—el 1,3% del total—, cifras que se sustentan en el balance oficial que ofreció recientemente en el Congreso el ministro de Sanidad Salvador Illa. Esto se traduce en unos 90.000 alumnos, si es que la media por aula es de 20 estudiantes.

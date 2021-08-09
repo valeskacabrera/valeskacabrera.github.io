@@ -4,7 +4,7 @@ title:  "Escuela pública Joaquim Ruyra: una Comunidad de Aprendizaje."
 description: Una escuela diferente es la que se construye colaborativamente. 
 date:   2020-09-06 13:23:42 +0200
 img: escola.jpg
-categories: [Educación]
+categories: [Educacion]
 ---
 
 Fuente de la foto: página web de la escuela.
