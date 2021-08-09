@@ -3,7 +3,6 @@ layout: post
 title:  Publicaciones
 description: Las publicaciones de Valeska Carebra
 date:   2019-08-12 17:23:42 +0200
-img: 140156_colegio-getafe.jpg
 categories: [publicaciones]
 ---
 
@@ -15,6 +14,15 @@ Esta investigación surgió del interés por percibir una educación vivencial, 
 
 
 **_Artículos_**
+
+**¿Cómo aprendemos? El docente enseñante y aprendiz que acompaña a los estudiantes en su exploración hacia el (auto)aprendizaje**
+
+Junto a Claudia Soto García elaboramos este estudio que trata habla del docente y del reconocimiento de su lugar en el proceso de enseñanza-aprendizaje. Se pone el foco en la búsqueda de las propias formas de aprender tanto del docente como de los estudiantes. El objetivo es indagar en las experiencias de aprendizaje de docentes y analizar cómo éstas pueden influir en la forma de enseñar y de relacionarse con los estudiantes. Se enfatiza en los procesos de transformación a partir del autoestudio, que incorpora relatos de diversos momentos de aprendizaje que surgen de la relación educativa. Para esto, nos basamos en la experiencia profesional que no sólo guía para aprender contenidos, sino que también acompaña a los estudiantes en el autoconocimiento para identificar sus preferencias de aprendizaje, sin cerrarse a otras posibilidades que surjan al trabajar juntos. <a href="https://revistaseug.ugr.es/index.php/profesorado/article/view/8155" target="_blank">Enlace</a>
+
+**Enseñar la indagación narrativa en la formación docente. Una experiencia de investigación que nos acerca**
+
+Junto a Claudia Soto García escribimos este estudio parte de las preguntas: ¿De qué manera enseñar la indagación narrativa como método de investigación partiendo de la propia experiencia? ¿Qué posibilidades y dificultades surgen en el proceso? El objetivo es analizar la incorporación de la implicación en primera persona al investigar usando la indagación narrativa en una asignatura de formación del profesorado. Se realiza un estudio de caso, con un enfoque de indagación narrativa, donde se elabora un relato a partir de la experiencia de la profesora, de las investigadoras y de los alumnos del grado de Pedagogía en la asignatura Teoría y Práctica de la Investigación Educativa en la Universidad de Barcelona, durante un semestre académico, donde participaron 106 estudiantes de primer año. <a href="https://recyt.fecyt.es/index.php/RIFOP/article/view/75218" target="_blank">Enlace</a>
+
 
 **Diarios Narrativos: Relaciones y Encuentros en Educación Secundaria**
 
