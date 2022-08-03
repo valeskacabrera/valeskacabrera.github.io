@@ -47,6 +47,7 @@ ul li {
 }
 ol {
   /*list-style: none;*/
+  font-family: 'Roboto Slab', sans-serif;
 }
 #content {
   background: #fff;
