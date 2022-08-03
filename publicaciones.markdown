@@ -6,14 +6,18 @@ date:   2019-08-12 17:23:42 +0200
 categories: [publicaciones]
 ---
 
-**_Tesis doctoral_**
+<h2>Tesis doctoral</h2>
 
 **Saberes relacionales: una experiencia transdisciplinar en un instituto de secundaria de Barcelona**
 
 Esta investigación surgió del interés por percibir una educación vivencial, la cual sea capaz de potenciar aprendizajes y saberes relacionales. El eje de la educación es formar a personas que puedan desenvolverse en un mundo complejo donde se entrelazan distintos ámbitos. Para formar a los(as) alumnos(as) en esa diversidad es necesario replantearse aspectos en los centros educativos; como el currículum, la relación que se tiene con el saber, con el mundo y los propios modos de relación entre las personas. <a href="https://www.academia.edu/35022838/Saberes_relaciones_una_experiencia_transdiciplinar_en_un_instituto_de_secundaria_de_Barcelona" target="_blank">Enlace</a>
 
 
-**_Artículos_**
+<h2>Artículos de investigación</h2>
+
+**El saber de la experiencia del profesorado en la formación inicial: Reflexiones desde una asignatura de educación inclusiva**
+
+Junto a Claudia Soto García y Asun López escribimos un artículo que tiene el objetivo de: Poner  el  foco  en  la  formación  docente  para  proyectar  una  escuela  inclusiva  es  clave.  El  objetivo de la presente investigación es reflexionar sobre la incorporación del saber de la experiencia en la formación inicial del profesorado, usando como fuente el relato de una profesora que implementa una  propuesta  didáctica  inclusiva.  . <a href="https://doi.org/10.15359/ree.25-3.8" target="_blank">Enlace</a>
 
 **¿Cómo aprendemos? El docente enseñante y aprendiz que acompaña a los estudiantes en su exploración hacia el (auto)aprendizaje**
 
@@ -45,6 +49,16 @@ Se propone una crítica a esas formas típicas de relaciones entre docentes y es
 
 **Desarrollo del Movimiento Sindical de Trabajadores Agrícolas de la Hacienda Ñuble-Rupanco: una mirada en retrospectiva histórica** Artículo que parte de la inspiración de la tesis de grado y que tiene como objetivo analizar cuáles fueron las motivaciones que llevaron a los trabajadores agrícolas de la  Hacienda Ñuble-Rupanco a ser miembros de una organización sindical, reconociendo sus funciones, demandas y formas de manifestación, focalizados a la seguridad de los trabajadores, el mejoramiento de las condiciones laborales, la defensa de los intereses comunes y de los derechos. <a href="http://dialnet.unirioja.es/descarga/articulo/4025462.pdf" target="_blank">Enlace</a>
 
-**_Capítulos de libros_**
+<h2>Libros</h2>
 
-**Las Europas de la educación. Semblanzas y diferencias en las características del liderazgo a partir del informe TALIS** II Volumen del estudio Internacional sobre la enseñanza y aprendizaje del Centre for Educational Researchand Innovation (CERI) de la OCDE. Se analiza la relación de algunos factores derivados del informe TALIS (Teaching and Learning Internacional Survey) sobre estilos de liderazgo (instruccional o distributivo) en países europeos poniendo énfasis en el caso español. <a href="http://goo.gl/znnvGW" target="_blank">Enlace</a>
+Cabrera, V. (2022). **Psicología del desarrollo: desde la infancia a la adolescencia.** Fundación Universitaria Iberoamericana. ISBN: 978-84-9079-815-7.
+
+Cabrera, V. (2019). **Factores del aprendizaje** Fundación Universitaria Iberoamericana. ISBN: 978-84-9079-548-4. Traducido al portugués por Fernanda Fauth.
+
+
+
+<h2>Capítulos de libros</h2>
+
+Cabrera, V. y Parra, F. (2022). **Enseñar: un movimiento de creación.** Atravesando fronteras, explorando nuevas narrativas en educación. Editorial Octaedro. <a href="https://octaedro.com/libro/atravesar-fronteras/" target="_blank">Enlace</a>
+
+Sans, A., Guàrdia, J., Triadó, X. i Cabrera, V. (2014). **Las Europas de la educación. Semblanzas y diferencias en las características del liderazgo a partir del informe TALIS** II Volumen del estudio Internacional sobre la enseñanza y aprendizaje del Centre for Educational Researchand Innovation (CERI) de la OCDE. Se analiza la relación de algunos factores derivados del informe TALIS (Teaching and Learning Internacional Survey) sobre estilos de liderazgo (instruccional o distributivo) en países europeos poniendo énfasis en el caso español. <a href="http://goo.gl/znnvGW" target="_blank">Enlace</a>

@@ -12,14 +12,14 @@ Educar por contenidos y objetivos es una modalidad que pronto quedará obsoleta.
 En España, durante el curso 2022-2023 se pondrá en marcha la LOMLOE, Ley Orgánica 3/2020, de 29 de diciembre que nos trae novedades respecto al currículum, a nuestras clases, a la manera de estar en el aula y de trabajar con nuestros/as alumnos/as. Ello nos llevará a evaluar “por competencias”. ¿Qué significa esto? Significa que harán descriptores operativos en cada asignatura de todos los niveles, es decir, contaremos con competencias en los niveles de infantil, primaria y secundaria, donde encontraremos competencias específicas de cada área.
 Concretamente, los contenidos que se proponen para cada asignatura tendrán que estar relacionados con alguna (o varias) competencia(s). En esta ley se consideran 8:
 
-1. Competencia en comunicación lingüística: Se basa en comprender, dar soporte y potenciar las interacciones comunicaciones de las personas.
+1. **Competencia en comunicación lingüística**: Se basa en comprender, dar soporte y potenciar las interacciones comunicaciones de las personas.
 2. Competencia plurilingüe: Se basa en potenciar las diversas lenguas para comunicarse, valorando la lengua materna.
-3. Competencia matemática y en ciencia, tecnología e ingeniería: Se basa en la importancia de las matemáticas, las ciencias y las tecnologías frente a los problemas del mundo moderno.
-4. Competencia digital: Se basa en el uso de las tecnologías en el mundo actual.
-5. Competencia personal, social y de aprender a aprender: Se basa en la reflexión, la organización y el aprendizaje autónomo.
-6. Competencia ciudadana: Se basa en potenciar las habilidades sociales y cívicas y el bienestar personal y común.
-7. Competencia emprendedora: Se basa en el sentido de la iniciativa y espíritu emprendedor.
-8. Competencia en conciencia y expresión cultural: Se basa en la importancia y la riqueza de las diferentes culturas: conocerlas, apreciarlas y acercarnos a ellas con una actitud abierta y respetuosa.
+3. **Competencia matemática, en Ciencia y Tecnología**: Se basa en la importancia de las matemáticas, las ciencias y las tecnologías frente a los problemas del mundo moderno.
+4. **Competencia digital**: Se basa en el uso de las tecnologías en el mundo actual.
+5. **Competencia personal, social y de aprender a aprender**: Se basa en la reflexión, la organización y el aprendizaje autónomo.
+6. **Competencia ciudadana**: Se basa en potenciar las habilidades sociales y cívicas y el bienestar personal y común.
+7. **Competencia emprendedora**: Se basa en el sentido de la iniciativa y espíritu emprendedor.
+8. **Competencia en conciencia y expresión cultural**: Se basa en la importancia y la riqueza de las diferentes culturas: conocerlas, apreciarlas y acercarnos a ellas con una actitud abierta y respetuosa.
 
 Durante prácticamente todo el año 2021 estuve formando a docentes de centros educativos de toda España y de diferentes niveles. En esos momentos de formación, me encontré con posicionamientos de acuerdos y desacuerdos, principalmente, expresaban las inquietudes que creían que ocurrirían al aplicar un cambio tan drástico. De alguna manera, los/as docentes queremos sentirnos seguros, por eso tendemos a repetir lo que hacemos; porque nos resulta efectivo. El cambio es novedoso, pero a la vez genera tensiones. ¿Qué cambia? ¿Podemos seguir haciendo lo mismo y solo cambiamos la nomenclatura? Eran algunas de las preguntas. Mi respuesta intentaba invitar a que este cambio que venía desde arriba nos permita pensar en el propio quehacer docente. ¿Qué oportunidades nos trae el cambio curricular por competencias?
 
