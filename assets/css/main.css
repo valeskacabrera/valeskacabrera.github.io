@@ -46,7 +46,7 @@ ul li {
   list-style: none;
 }
 ol {
-  list-style: none;
+  /*list-style: none;*/
 }
 #content {
   background: #fff;
