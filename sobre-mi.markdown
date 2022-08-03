@@ -8,14 +8,14 @@ categories: [Personal]
 
 **Biografía**
 
-Soy Doctora en Educación por la Universidad de Barcelona, Máster en Investigación en Investigación en Didáctica, Formación y Evaluación Educativa, pedagoga, licenciada en Educación y profesora en Historia y Geografía. Como profesional del área de la educación tengo experiencia en docencia, liderazgo de proyectos educativos e investigación. He desarrollado investigaciones sobre el saber de la experiencia, transdisciplinariedad, currículum, tecnologías aplicadas a los centros educativos, formación del profesorado y narrativa. En Historia y Geografía también he hecho publicaciones y me he desempeñado como profesora de Educación Secundaria. Actualmente soy coordinadora de proyectos en infancia y adolescencia.
+Soy Doctora en Educación y Sociedad por la Universidad de Barcelona, Máster en Investigación en Investigación en Didáctica, Formación y Evaluación Educativa, pedagoga, licenciada en Educación y profesora en Historia y Geografía. Como profesional del área de la educación tengo experiencia en docencia (secundaria, educación de adultos y  universidades). He desarrollado investigaciones sobre el saber de la experiencia, transdisciplinariedad, currículum, tecnologías aplicadas a los centros educativos, formación del profesorado y narrativa. Actualmente soy coordinadora de proyectos en infancia y adolescencia.
 
 Hablo castellano y catalán.
 
-Una de las actividades que me apasionan es la docencia y, desde mi formación, me ha interesado la relación profesor(a)-estudiantes. Creo que las transformaciones de la sociedad van de la mano con las formas de enseñar, por eso, es esencial ir indagando en nuevas formas de estar en el mundo.
+Me gusta la docencia. Creo que las transformaciones de la sociedad van de la mano con las formas de enseñar, por eso, es esencial ir indagando las metodologías actuales porque dan cuenta de formas de estar en el mundo.
 
-Desde pequeña me ha fascinado la lectura y la escritura. Poco a poco he ido desarrollándome en ésta área. Creo que éstas dos actividades están relacionadas con las experiencias de vida.
+Desde pequeña me ha interesado la lectura y la escritura. Poco a poco he ido desarrollándome en ésta área.
 
-Con el lema "Vivir, pensar y escribir" os quería invitar a compartir en este espacio. Os agradezco vuestras visitas y vuestra lectura. 
+Os agradezco vuestras visitas y vuestra lectura. 
 
 
