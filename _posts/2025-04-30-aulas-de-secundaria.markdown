@@ -2,7 +2,7 @@
 layout: post
 title: "Mirar las aulas de secundaria"
 description: Educar por contenidos y objetivos es una modalidad que pronto quedará obsoleta.  
-date:   2025-04-30 18:23:42 +0200
+date:   2025-04-30 23:23:42 +0200
 img: aulaactual.jpg
 categories: [Educacion]
 ---
