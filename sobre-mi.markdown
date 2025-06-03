@@ -8,7 +8,7 @@ categories: [Personal]
 
 **Biografía**
 
-Soy Doctora en Educación y Sociedad, Máster en Investigación en Investigación en Didáctica, Formación y Evaluación Educativa, pedagoga, licenciada en educación y profesora en Historia y Geografía. He sido profesora en diferentes niveles: secundaria, educación de adultos y universidad. He desarrollado investigaciones sobre el saber de la experiencia, transdisciplinariedad, currículum, tecnologías aplicadas a los centros educativos, formación del profesorado, pedagogía narrativa, entre otras. He sido coordinadora de proyectos en infancia y adolescencia. Actualmente soy profesora de universidad en el área de formación del profesorado.
+Soy Doctora en Educación y Sociedad, Máster en Investigación en Didáctica, Formación y Evaluación Educativa, pedagoga, licenciada en educación y profesora en Historia y Geografía. He sido profesora en diferentes niveles: secundaria, educación de adultos y universidad. He desarrollado investigaciones sobre el saber de la experiencia, transdisciplinariedad, currículum, tecnologías aplicadas a los centros educativos, formación del profesorado, pedagogía narrativa, entre otras. He sido coordinadora de proyectos en infancia y adolescencia. Actualmente soy profesora de universidad en el área de formación del profesorado.
 
 Creo que las transformaciones de la sociedad van de la mano de las formas de enseñar y aprender.
 
