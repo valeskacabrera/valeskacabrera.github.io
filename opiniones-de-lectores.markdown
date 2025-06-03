@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Opiniones de los lectores de Viaje al centro de mi libretad
-description: Opiniones de los lectores de Viaje al centro de mi libretad.
+description: Opiniones de los lectores de Viaje al centro de mi libertad.
 date:   2015-08-12 10:23:42 +0200
 img: libro_viaje_al_centro_de_mi_libertad.jpg
 categories: [libro]
