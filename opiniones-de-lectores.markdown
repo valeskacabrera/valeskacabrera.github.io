@@ -7,7 +7,7 @@ img: libro_viaje_al_centro_de_mi_libertad.jpg
 categories: [libro]
 ---
 
-Algunos lectores me han hecho llegar sus comentarios sobre el libro "Viaje al centro de mi libertad". A continuación quisiera compartir esas opiniones. Sois vosotros mi fuente de inspiración. Podéis escribirme a [vcabrera@ub.edu](mailto:vcabrera@ub.edu)
+Algunos lectores me han hecho llegar sus comentarios sobre el libro "Viaje al centro de mi libertad". A continuación quisiera compartir esas opiniones. 
 
 **Lo que dicen los/as lectores/as:**
 
@@ -26,5 +26,3 @@ _Gisella_ -"Fue muy agradable y emocionante leer la novela de Valeska, pude cone
 _Angi_ -"Me gustó mucho, sobre todo porque uno se va imaginando todas esas partes lindas que se mencionan que, sin conocerlas, uno se siente como si estuviera en el lugar y eso es lo más lindo de la lectura: que te metes tanto en una narración que te la vas imaginando". Francisca -"Es un buen libro, sin una gota de pretensión que demuestra la simpleza y la riqueza interior de la autora, una dualidad exquisita que se agradece".
 
 _Loreto_ -"Muy linda novela. Invita a una fluida imaginación por sucesos cotidianos, pasando desde el dolor hasta llegar al encuentro del amor, gracias por compartir con nosotros esa historia de vida".
-
-Benito Si quieres tener tu propio ejemplar en papel o en digital <a href="{{"libro.html" | prepend: site.baseurl}}">AQUÍ</a>. puedes encontrar los puntos de venta.
