@@ -3,7 +3,7 @@ layout: post
 title: "Conectar con la infancia"
 description: Hace unos días vimos un capítulo de hashtag Bluey en la universidad.
 date:   2025-06-03 22:23:42 +0200
-img: aulaactual.jpg
+img: Bluey.jpg
 categories: [Educacion]
 ---
 
