@@ -2,7 +2,7 @@
 layout: post
 title: "La comunicación humana"
 description: Cómo nos vinculamos
-date: 2026-08-21 20:00:00 +0200
+date: 2026-08-21 18:00:00 +0200
 img: Comunica.jpg
 categories: [Educacion]
 ---
