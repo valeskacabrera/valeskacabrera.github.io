@@ -18,3 +18,5 @@ Así como el ser humano busca las alternativas para adaptarse al medio, desde la
 La pregunta es: ¿Qué mejoramos de nuestra propia comunicación a lo largo de la vida? No se trata solo de aprender a hablar y de aprender escribir (dos de los actos que más nos cambian a nivel cognitivo como humanos), se trata de seguir trabajando la comunicación para vincularnos con mayor profundidad, para tener conversaciones de calidad, para responder a aquella pregunta que intenta tocar nuestras emociones, para abrirse a nuevas reflexiones, a crear vínculos significativos con otros/as, aunque eso no esté de moda.  
 
 **Nota**: Escrito sin IA, no quiero depender de ella. 
+
+**Autora: Valeska Cabrera Cuadros**
