@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Uso de las pantallas en la infancia"
-description: Desafíos del uso de las tecnologías
+description: Desafíos del uso de las tecnologías en la infancia
 date: 2026-10-15 13:00:00 +0200
 img: desafios-libro.jpeg
 categories: [Educacion]
